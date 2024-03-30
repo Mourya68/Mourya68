@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](Header)
 
 👋 Hi there! I'm Mourya Chandra Guptha Mittapalli.
 

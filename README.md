@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 👋 Hi there! I'm Mourya Chandra Guptha Mittapalli.
 
 👀 I'm passionate about crafting innovative software solutions that make a real-world impact.
@@ -11,6 +13,8 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I'm an avid traveler and love exploring new cultures and cuisines!
+
+
 <!--
 **Mourya68/Mourya68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,10 @@
-![Header](Header)
+
 
 👋 Hi there! I'm Mourya Chandra Guptha Mittapalli.
 
 👀 I'm passionate about crafting innovative software solutions that make a real-world impact.
 
-🌱 Currently, I'm diving deep into the realm of full-stack development, constantly learning and honing my skills.
+🌱 Currently, I'm diving deep into the realm of Software development, constantly learning and honing my skills.
 
 💞️ I'm eager to collaborate on projects that push the boundaries of technology and solve complex problems.
 
